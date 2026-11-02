@@ -2,6 +2,9 @@
   "name": "babycon",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "description": "Babycon — premium baby essentials. Full-stack storefront + admin.",
   "scripts": {
     "dev": "next dev -p 3000",
