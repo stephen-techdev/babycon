@@ -1,0 +1,29 @@
+services:
+  babycon:
+    build: .
+    container_name: babycon
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      DATABASE_PATH: /app/data/babycon.db
+      NEXT_PUBLIC_SITE_URL: http://localhost:3000
+      NEXT_PUBLIC_PAYMENT_MODE: demo
+      ADMIN_EMAIL: admin@babycon.in
+      ADMIN_PASSWORD: Admin@12345
+    volumes:
+      # Named volumes are initialised with the seeded database and catalog
+      # from the image on first run. Use backups before replacing them.
+      - babycon-data:/app/data
+      - babycon-uploads:/app/public/uploads
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r=>{if(!r.ok)process.exit(1)}).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+volumes:
+  babycon-data:
+  babycon-uploads:

@@ -1,0 +1,4379 @@
+{
+  "generatedAt": "2026-11-02T09:32:41.360Z",
+  "products": [
+    {
+      "handle": "newborn-welcome-combo",
+      "title": "Newborn welcome combo",
+      "category": "Sets & Combos",
+      "price": 3450,
+      "compareAtPrice": null,
+      "sku": "BC-0001",
+      "stock": 13,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Pink",
+        "Blue"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 98,
+      "description": "<p>Newborn welcome combo — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Newborn welcome combo — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/newborn-welcome-combo-1.jpg",
+        "/images/products/newborn-welcome-combo-2.jpg"
+      ],
+      "alt": "Newborn welcome combo",
+      "publishedAt": "2026-10-16T00:45:46+05:30",
+      "seoTitle": "Newborn welcome combo | Babycon",
+      "seoDescription": "Newborn welcome combo — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "untitled-oct15_23-16-25",
+      "title": "Mini dungarees",
+      "category": "Dungarees",
+      "price": 1249,
+      "compareAtPrice": null,
+      "sku": "BC-0002",
+      "stock": 34,
+      "sizes": [
+        "3-6 months"
+      ],
+      "colors": [
+        "Blue",
+        "Beige"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 81,
+      "description": "<p>Mini dungarees — playful, practical and impossibly cute.</p><p>Cut from durable, soft cotton with an adjustable fit and easy-access snaps. Roomy enough for cloth nappies and active play, and finished with details that make every outfit feel special.</p><h3>Why you'll love it</h3><ul><li>Soft yet durable cotton</li><li>Adjustable straps for a growing fit</li><li>Snap closure for quick changes</li><li>Layers beautifully over tees & bodysuits</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Mini dungarees — playful, practical and impossibly cute.",
+      "highlights": [
+        "Soft yet durable cotton",
+        "Adjustable straps for a growing fit",
+        "Snap closure for quick changes"
+      ],
+      "images": [
+        "/images/products/untitled-oct15_23-16-25-1.jpg"
+      ],
+      "alt": "Mini dungarees",
+      "publishedAt": "2026-10-15T23:24:38+05:30",
+      "seoTitle": "Mini dungarees | Babycon",
+      "seoDescription": "Mini dungarees — playful, practical and impossibly cute."
+    },
+    {
+      "handle": "muslin-toffee-set",
+      "title": "Muslin toffee set",
+      "category": "Co-ords & Sets",
+      "price": 1499,
+      "compareAtPrice": null,
+      "sku": "BC-0003",
+      "stock": 41,
+      "sizes": [
+        "6-12 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 18,
+      "description": "<p>Muslin toffee set — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin toffee set — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/muslin-toffee-set-1.png",
+        "/images/products/muslin-toffee-set-2.png"
+      ],
+      "alt": "Muslin toffee set",
+      "publishedAt": "2026-10-15T17:50:28+05:30",
+      "seoTitle": "Muslin toffee set | Babycon",
+      "seoDescription": "Muslin toffee set — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "comfort-combo-set-4",
+      "title": "Comfort combo set 4",
+      "category": "Sets & Combos",
+      "price": 4499,
+      "compareAtPrice": null,
+      "sku": "BC-0004",
+      "stock": 49,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 112,
+      "description": "<p>Comfort combo set 4 — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Comfort combo set 4 — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/comfort-combo-set-4-1.jpg"
+      ],
+      "alt": "Comfort combo set 4",
+      "publishedAt": "2026-09-26T22:29:59+05:30",
+      "seoTitle": "Comfort combo set 4 | Babycon",
+      "seoDescription": "Comfort combo set 4 — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "comfort-combo-set3",
+      "title": "Comfort combo set3",
+      "category": "Sets & Combos",
+      "price": 4499,
+      "compareAtPrice": null,
+      "sku": "BC-0005",
+      "stock": 17,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 56,
+      "description": "<p>Comfort combo set3 — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Comfort combo set3 — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/comfort-combo-set3-1.jpg"
+      ],
+      "alt": "Comfort combo set3",
+      "publishedAt": "2026-09-26T22:29:07+05:30",
+      "seoTitle": "Comfort combo set3 | Babycon",
+      "seoDescription": "Comfort combo set3 — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "comfort-combo-set2",
+      "title": "Comfort combo set2",
+      "category": "Sets & Combos",
+      "price": 4499,
+      "compareAtPrice": null,
+      "sku": "BC-0006",
+      "stock": 16,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 55,
+      "description": "<p>Comfort combo set2 — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Comfort combo set2 — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/comfort-combo-set2-1.jpg"
+      ],
+      "alt": "Comfort combo set2",
+      "publishedAt": "2026-09-26T22:28:08+05:30",
+      "seoTitle": "Comfort combo set2 | Babycon",
+      "seoDescription": "Comfort combo set2 — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "comfort-combo-set-1",
+      "title": "Comfort combo set 1",
+      "category": "Sets & Combos",
+      "price": 4499,
+      "compareAtPrice": null,
+      "sku": "BC-0007",
+      "stock": 46,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 109,
+      "description": "<p>Comfort combo set 1 — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Comfort combo set 1 — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/comfort-combo-set-1-1.jpg"
+      ],
+      "alt": "Comfort combo set 1",
+      "publishedAt": "2026-09-26T22:26:18+05:30",
+      "seoTitle": "Comfort combo set 1 | Babycon",
+      "seoDescription": "Comfort combo set 1 — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "muslin-short-romper",
+      "title": "Muslin short romper",
+      "category": "Rompers & Onesies",
+      "price": 850,
+      "compareAtPrice": null,
+      "sku": "BC-0008",
+      "stock": 20,
+      "sizes": [
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "Teddy",
+        "Cat",
+        "Orange",
+        "Tulip"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 16,
+      "description": "<p>Muslin short romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin short romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/muslin-short-romper-1.png",
+        "/images/products/muslin-short-romper-2.png"
+      ],
+      "alt": "Muslin short romper",
+      "publishedAt": "2026-09-23T00:37:12+05:30",
+      "seoTitle": "Muslin short romper | Babycon",
+      "seoDescription": "Muslin short romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "denim-heart-romper-set",
+      "title": "Denim heart romper set",
+      "category": "Co-ords & Sets",
+      "price": 1680,
+      "compareAtPrice": null,
+      "sku": "BC-0009",
+      "stock": 32,
+      "sizes": [
+        "6-12 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "newborn-comfort-combo-set",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 62,
+      "description": "<p>Denim heart romper set — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Denim heart romper set — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/denim-heart-romper-set-1.png",
+        "/images/products/denim-heart-romper-set-2.png"
+      ],
+      "alt": "Denim heart romper set",
+      "publishedAt": "2026-09-15T11:02:29+05:30",
+      "seoTitle": "Denim heart romper set | Babycon",
+      "seoDescription": "Denim heart romper set — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "muslin-cloth-1",
+      "title": "Muslin cloth",
+      "category": "Muslin Cloths",
+      "price": 420,
+      "compareAtPrice": 510,
+      "sku": "BC-0010",
+      "stock": 53,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Rainbow",
+        "Strawberry",
+        "Lemon",
+        "Dots",
+        "Teddy",
+        "Leaf",
+        "Tulip",
+        "Star",
+        "Bunny",
+        "Love"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "Loved by parents",
+      "rating": 4.9,
+      "reviewCount": 82,
+      "description": "<p>Muslin cloth — the tiny essential you will reach for every single day.</p><p>Woven from premium muslin cotton, these cloths are absorbent, breathable and wonderfully soft against delicate skin. Use them for feeding, burping, bath time or a quick clean-up at home and on the go.</p><h3>Why you'll love it</h3><ul><li>Premium soft muslin cotton</li><li>Absorbent, breathable & quick drying</li><li>Multi-purpose everyday essential</li><li>Softens beautifully with each wash</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin cloth — the tiny essential you will reach for every single day.",
+      "highlights": [
+        "Premium soft muslin cotton",
+        "Absorbent, breathable & quick drying",
+        "Multi-purpose everyday essential"
+      ],
+      "images": [
+        "/images/products/muslin-cloth-1-1.jpg",
+        "/images/products/muslin-cloth-1-2.jpg",
+        "/images/products/muslin-cloth-1-3.jpg",
+        "/images/products/muslin-cloth-1-4.jpg"
+      ],
+      "alt": "Muslin cloth",
+      "publishedAt": "2026-09-13T20:51:45+05:30",
+      "seoTitle": "Muslin cloth | Babycon",
+      "seoDescription": "Muslin cloth — the tiny essential you will reach for every single day."
+    },
+    {
+      "handle": "cub-onesie",
+      "title": "Cub onesie",
+      "category": "Rompers & Onesies",
+      "price": 999,
+      "compareAtPrice": 1140,
+      "sku": "BC-0011",
+      "stock": 30,
+      "sizes": [
+        "3-6 months",
+        "Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.8,
+      "reviewCount": 37,
+      "description": "<p>Cub onesie — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cub onesie — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/cub-onesie-1.jpg"
+      ],
+      "alt": "Cub onesie",
+      "publishedAt": "2026-09-12T13:43:33+05:30",
+      "seoTitle": "Cub onesie | Babycon",
+      "seoDescription": "Cub onesie — softness they will live in, all day long."
+    },
+    {
+      "handle": "muslin-swaddle",
+      "title": "Muslin swaddle",
+      "category": "Blankets & Swaddles",
+      "price": 999,
+      "compareAtPrice": 1370,
+      "sku": "BC-0012",
+      "stock": 36,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Green",
+        "Brown",
+        "Yellow",
+        "Pink",
+        "Black",
+        "Bronze"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "Bestseller",
+      "rating": 5,
+      "reviewCount": 24,
+      "description": "<p>Muslin swaddle — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin swaddle — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/muslin-swaddle-1.jpg",
+        "/images/products/muslin-swaddle-2.jpg",
+        "/images/products/muslin-swaddle-3.jpg",
+        "/images/products/muslin-swaddle-4.jpg"
+      ],
+      "alt": "Muslin swaddle",
+      "publishedAt": "2026-09-12T13:42:44+05:30",
+      "seoTitle": "Muslin swaddle | Babycon",
+      "seoDescription": "Muslin swaddle — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "flora-bow",
+      "title": "Baby bow",
+      "category": "Accessories",
+      "price": 1399,
+      "compareAtPrice": null,
+      "sku": "BC-0013",
+      "stock": 29,
+      "sizes": [
+        "0-6 m",
+        "6-9 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.6,
+      "reviewCount": 64,
+      "description": "<p>Baby bow — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby bow — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/flora-bow-1.jpg",
+        "/images/products/flora-bow-2.jpg"
+      ],
+      "alt": "Baby bow",
+      "publishedAt": "2026-09-12T13:40:03+05:30",
+      "seoTitle": "Baby bow | Babycon",
+      "seoDescription": "Baby bow — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "meadow-dungarees-1",
+      "title": "Meadow dungarees",
+      "category": "Dungarees",
+      "price": 2299,
+      "compareAtPrice": 2990,
+      "sku": "BC-0014",
+      "stock": 39,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Brown",
+        "Beige",
+        "Navy",
+        "Skyblue",
+        "Grey",
+        "White",
+        "Coffee"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 83,
+      "description": "<p>Meadow dungarees — playful, practical and impossibly cute.</p><p>Cut from durable, soft cotton with an adjustable fit and easy-access snaps. Roomy enough for cloth nappies and active play, and finished with details that make every outfit feel special.</p><h3>Why you'll love it</h3><ul><li>Soft yet durable cotton</li><li>Adjustable straps for a growing fit</li><li>Snap closure for quick changes</li><li>Layers beautifully over tees & bodysuits</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Meadow dungarees — playful, practical and impossibly cute.",
+      "highlights": [
+        "Soft yet durable cotton",
+        "Adjustable straps for a growing fit",
+        "Snap closure for quick changes"
+      ],
+      "images": [
+        "/images/products/meadow-dungarees-1-1.jpg",
+        "/images/products/meadow-dungarees-1-2.png"
+      ],
+      "alt": "Meadow dungarees",
+      "publishedAt": "2026-09-12T11:36:12+05:30",
+      "seoTitle": "Meadow dungarees | Babycon",
+      "seoDescription": "Meadow dungarees — playful, practical and impossibly cute."
+    },
+    {
+      "handle": "denim-pinafore",
+      "title": "Denim pinafore",
+      "category": "Dungarees",
+      "price": 2299,
+      "compareAtPrice": 2640,
+      "sku": "BC-0015",
+      "stock": 45,
+      "sizes": [
+        "9-12 months"
+      ],
+      "colors": [
+        "Yellow",
+        "Pink",
+        "White",
+        "Beige"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.7,
+      "reviewCount": 69,
+      "description": "<p>Denim pinafore — playful, practical and impossibly cute.</p><p>Cut from durable, soft cotton with an adjustable fit and easy-access snaps. Roomy enough for cloth nappies and active play, and finished with details that make every outfit feel special.</p><h3>Why you'll love it</h3><ul><li>Soft yet durable cotton</li><li>Adjustable straps for a growing fit</li><li>Snap closure for quick changes</li><li>Layers beautifully over tees & bodysuits</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Denim pinafore — playful, practical and impossibly cute.",
+      "highlights": [
+        "Soft yet durable cotton",
+        "Adjustable straps for a growing fit",
+        "Snap closure for quick changes"
+      ],
+      "images": [
+        "/images/products/denim-pinafore-1.jpg",
+        "/images/products/denim-pinafore-2.jpg"
+      ],
+      "alt": "Denim pinafore",
+      "publishedAt": "2026-09-09T16:16:14+05:30",
+      "seoTitle": "Denim pinafore | Babycon",
+      "seoDescription": "Denim pinafore — playful, practical and impossibly cute."
+    },
+    {
+      "handle": "denim-dungarees",
+      "title": "Denim dungarees",
+      "category": "Dungarees",
+      "price": 2299,
+      "compareAtPrice": null,
+      "sku": "BC-0016",
+      "stock": 26,
+      "sizes": [
+        "9-12 months"
+      ],
+      "colors": [
+        "Yellow",
+        "Pink",
+        "White"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 11,
+      "description": "<p>Denim dungarees — playful, practical and impossibly cute.</p><p>Cut from durable, soft cotton with an adjustable fit and easy-access snaps. Roomy enough for cloth nappies and active play, and finished with details that make every outfit feel special.</p><h3>Why you'll love it</h3><ul><li>Soft yet durable cotton</li><li>Adjustable straps for a growing fit</li><li>Snap closure for quick changes</li><li>Layers beautifully over tees & bodysuits</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Denim dungarees — playful, practical and impossibly cute.",
+      "highlights": [
+        "Soft yet durable cotton",
+        "Adjustable straps for a growing fit",
+        "Snap closure for quick changes"
+      ],
+      "images": [
+        "/images/products/denim-dungarees-1.jpg",
+        "/images/products/denim-dungarees-2.jpg"
+      ],
+      "alt": "Denim dungarees",
+      "publishedAt": "2026-09-09T15:25:20+05:30",
+      "seoTitle": "Denim dungarees | Babycon",
+      "seoDescription": "Denim dungarees — playful, practical and impossibly cute."
+    },
+    {
+      "handle": "baby-knit-sweaters-pastel-shades",
+      "title": "Baby Knit Sweaters – Pastel Shades",
+      "category": "Co-ords & Sets",
+      "price": 1299,
+      "compareAtPrice": null,
+      "sku": "BC-0017",
+      "stock": 19,
+      "sizes": [
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "Mint",
+        "Pistachio",
+        "Sage"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 86,
+      "description": "<p>Baby Knit Sweaters – Pastel Shades — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby Knit Sweaters – Pastel Shades — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/baby-knit-sweaters-pastel-shades-1.jpg",
+        "/images/products/baby-knit-sweaters-pastel-shades-2.jpg"
+      ],
+      "alt": "Baby Knit Sweaters – Pastel Shades",
+      "publishedAt": "2026-09-07T01:23:54+05:30",
+      "seoTitle": "Baby Knit Sweaters – Pastel Shades | Babycon",
+      "seoDescription": "Baby Knit Sweaters – Pastel Shades — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "baby-knit-sweaters-warm-tones",
+      "title": "Baby knit sweaters- warm tones",
+      "category": "Co-ords & Sets",
+      "price": 1299,
+      "compareAtPrice": 1530,
+      "sku": "BC-0018",
+      "stock": 51,
+      "sizes": [
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "white",
+        "Yellow",
+        "Orange",
+        "Red"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.7,
+      "reviewCount": 65,
+      "description": "<p>Baby knit sweaters- warm tones — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby knit sweaters- warm tones — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/baby-knit-sweaters-warm-tones-1.jpg",
+        "/images/products/baby-knit-sweaters-warm-tones-2.jpg"
+      ],
+      "alt": "Baby knit sweaters- warm tones",
+      "publishedAt": "2026-09-07T01:15:28+05:30",
+      "seoTitle": "Baby knit sweaters- warm tones | Babycon",
+      "seoDescription": "Baby knit sweaters- warm tones — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "baby-knit-sweaters-cooler-shades",
+      "title": "Baby knit sweaters- cooler shades",
+      "category": "Co-ords & Sets",
+      "price": 1299,
+      "compareAtPrice": null,
+      "sku": "BC-0019",
+      "stock": 22,
+      "sizes": [
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "Navy",
+        "Pink",
+        "Skyblue"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 39,
+      "description": "<p>Baby knit sweaters- cooler shades — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby knit sweaters- cooler shades — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/baby-knit-sweaters-cooler-shades-1.jpg",
+        "/images/products/baby-knit-sweaters-cooler-shades-2.jpg"
+      ],
+      "alt": "Baby knit sweaters- cooler shades",
+      "publishedAt": "2026-09-07T01:06:56+05:30",
+      "seoTitle": "Baby knit sweaters- cooler shades | Babycon",
+      "seoDescription": "Baby knit sweaters- cooler shades — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "baby-sweaters-english-colours",
+      "title": "Baby knit sweaters -earthy tones",
+      "category": "Co-ords & Sets",
+      "price": 1299,
+      "compareAtPrice": 1800,
+      "sku": "BC-0020",
+      "stock": 54,
+      "sizes": [
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "Brown",
+        "Bronze",
+        "Beige",
+        "Grey"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 5,
+      "reviewCount": 95,
+      "description": "<p>Baby knit sweaters -earthy tones — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby knit sweaters -earthy tones — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/baby-sweaters-english-colours-1.jpg",
+        "/images/products/baby-sweaters-english-colours-2.jpg"
+      ],
+      "alt": "Baby knit sweaters -earthy tones",
+      "publishedAt": "2026-09-07T00:56:40+05:30",
+      "seoTitle": "Baby knit sweaters -earthy tones | Babycon",
+      "seoDescription": "Baby knit sweaters -earthy tones — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "untitled-sep6_21-35-42",
+      "title": "Little mate Blanket",
+      "category": "Blankets & Swaddles",
+      "price": 1799,
+      "compareAtPrice": 2400,
+      "sku": "BC-0021",
+      "stock": 39,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Brown-teddy",
+        "Pink- giraffe",
+        "Blue-sheep",
+        "Brown-puppy",
+        "Brown-sheep",
+        "Babypink-giraffe",
+        "Pink-bunny",
+        "Skyblue-sheep",
+        "Brown-giraffe",
+        "Green-tortoise"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.7,
+      "reviewCount": 69,
+      "description": "<p>Little mate Blanket — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Little mate Blanket — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/untitled-sep6_21-35-42-1.jpg",
+        "/images/products/untitled-sep6_21-35-42-2.jpg"
+      ],
+      "alt": "Little mate Blanket",
+      "publishedAt": "2026-09-06T22:28:32+05:30",
+      "seoTitle": "Little mate Blanket | Babycon",
+      "seoDescription": "Little mate Blanket — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "muslin-burp-cloth",
+      "title": "Muslin burp cloth",
+      "category": "Bath & Care",
+      "price": 249,
+      "compareAtPrice": null,
+      "sku": "BC-0022",
+      "stock": 43,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Heart",
+        "Mashroom",
+        "Teddy",
+        "Teddy bear",
+        "Lemon",
+        "Rainbow"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 26,
+      "description": "<p>Muslin burp cloth — everyday care, made gentler.</p><p>Made from plush, quick-drying muslin cotton that is kind to delicate skin. Lightweight, absorbent and beautifully finished, it is designed to make bath time and daily clean-ups feel effortless.</p><h3>Why you'll love it</h3><ul><li>Ultra-soft, absorbent muslin cotton</li><li>Quick drying & lightweight</li><li>Ideal for bath, feeding and travel</li><li>Thoughtfully finished edges</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin burp cloth — everyday care, made gentler.",
+      "highlights": [
+        "Ultra-soft, absorbent muslin cotton",
+        "Quick drying & lightweight",
+        "Ideal for bath, feeding and travel"
+      ],
+      "images": [
+        "/images/products/muslin-burp-cloth-1.jpg",
+        "/images/products/muslin-burp-cloth-2.jpg"
+      ],
+      "alt": "Muslin burp cloth",
+      "publishedAt": "2026-09-04T19:53:02+05:30",
+      "seoTitle": "Muslin burp cloth | Babycon",
+      "seoDescription": "Muslin burp cloth — everyday care, made gentler."
+    },
+    {
+      "handle": "muslin-changing-mat",
+      "title": "Muslin changing mat",
+      "category": "Bath & Care",
+      "price": 425,
+      "compareAtPrice": null,
+      "sku": "BC-0023",
+      "stock": 19,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Rainbow",
+        "Floral",
+        "Teddy",
+        "Teddy bear",
+        "Elephant",
+        "Watermelon",
+        "Flower",
+        "Tree"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 106,
+      "description": "<p>Muslin changing mat — everyday care, made gentler.</p><p>Made from plush, quick-drying muslin cotton that is kind to delicate skin. Lightweight, absorbent and beautifully finished, it is designed to make bath time and daily clean-ups feel effortless.</p><h3>Why you'll love it</h3><ul><li>Ultra-soft, absorbent muslin cotton</li><li>Quick drying & lightweight</li><li>Ideal for bath, feeding and travel</li><li>Thoughtfully finished edges</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin changing mat — everyday care, made gentler.",
+      "highlights": [
+        "Ultra-soft, absorbent muslin cotton",
+        "Quick drying & lightweight",
+        "Ideal for bath, feeding and travel"
+      ],
+      "images": [
+        "/images/products/muslin-changing-mat-1.png",
+        "/images/products/muslin-changing-mat-2.png"
+      ],
+      "alt": "Muslin changing mat",
+      "publishedAt": "2026-09-04T19:38:03+05:30",
+      "seoTitle": "Muslin changing mat | Babycon",
+      "seoDescription": "Muslin changing mat — everyday care, made gentler."
+    },
+    {
+      "handle": "cap-booties-and-mittens-set",
+      "title": "Cap, Booties and mittens set",
+      "category": "Co-ords & Sets",
+      "price": 549,
+      "compareAtPrice": null,
+      "sku": "BC-0024",
+      "stock": 50,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Flower",
+        "Dottie",
+        "Check",
+        "Rainbow.",
+        "Polka"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.9,
+      "reviewCount": 125,
+      "description": "<p>Cap, Booties and mittens set — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cap, Booties and mittens set — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/cap-booties-and-mittens-set-1.png",
+        "/images/products/cap-booties-and-mittens-set-2.png"
+      ],
+      "alt": "Cap, Booties and mittens set",
+      "publishedAt": "2026-09-04T18:54:07+05:30",
+      "seoTitle": "Cap, Booties and mittens set | Babycon",
+      "seoDescription": "Cap, Booties and mittens set — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "mimi-bear-dunagarees",
+      "title": "Mimi bear Dunagarees",
+      "category": "Everyday Essentials",
+      "price": 2380,
+      "compareAtPrice": null,
+      "sku": "BC-0025",
+      "stock": 34,
+      "sizes": [
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "Beige",
+        "Red"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 60,
+      "description": "<p>Mimi bear Dunagarees — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Mimi bear Dunagarees — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/mimi-bear-dunagarees-1.jpg",
+        "/images/products/mimi-bear-dunagarees-2.jpg"
+      ],
+      "alt": "Mimi bear Dunagarees",
+      "publishedAt": "2026-09-04T18:29:27+05:30",
+      "seoTitle": "Mimi bear Dunagarees | Babycon",
+      "seoDescription": "Mimi bear Dunagarees — softness they will live in, all day long."
+    },
+    {
+      "handle": "tiny-hearts-dungarees",
+      "title": "Tiny hearts Dungarees",
+      "category": "Dungarees",
+      "price": 2250,
+      "compareAtPrice": null,
+      "sku": "BC-0026",
+      "stock": 43,
+      "sizes": [
+        "9-12 months"
+      ],
+      "colors": [
+        "Pink",
+        "Beige"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 10,
+      "description": "<p>Tiny hearts Dungarees — playful, practical and impossibly cute.</p><p>Cut from durable, soft cotton with an adjustable fit and easy-access snaps. Roomy enough for cloth nappies and active play, and finished with details that make every outfit feel special.</p><h3>Why you'll love it</h3><ul><li>Soft yet durable cotton</li><li>Adjustable straps for a growing fit</li><li>Snap closure for quick changes</li><li>Layers beautifully over tees & bodysuits</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Tiny hearts Dungarees — playful, practical and impossibly cute.",
+      "highlights": [
+        "Soft yet durable cotton",
+        "Adjustable straps for a growing fit",
+        "Snap closure for quick changes"
+      ],
+      "images": [
+        "/images/products/tiny-hearts-dungarees-1.jpg",
+        "/images/products/tiny-hearts-dungarees-2.jpg"
+      ],
+      "alt": "Tiny hearts Dungarees",
+      "publishedAt": "2026-09-04T17:33:02+05:30",
+      "seoTitle": "Tiny hearts Dungarees | Babycon",
+      "seoDescription": "Tiny hearts Dungarees — playful, practical and impossibly cute."
+    },
+    {
+      "handle": "helloworld-3-piece-set",
+      "title": "Hello world 3 piece set",
+      "category": "Sets & Combos",
+      "price": 2550,
+      "compareAtPrice": null,
+      "sku": "BC-0027",
+      "stock": 38,
+      "sizes": [
+        "0-3 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 43,
+      "description": "<p>Hello world 3 piece set — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Hello world 3 piece set — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/helloworld-3-piece-set-1.jpg",
+        "/images/products/helloworld-3-piece-set-2.jpg"
+      ],
+      "alt": "Hello world 3 piece set",
+      "publishedAt": "2026-09-03T18:01:42+05:30",
+      "seoTitle": "Hello world 3 piece set | Babycon",
+      "seoDescription": "Hello world 3 piece set — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "baby-beanie-cap",
+      "title": "Baby Beanie cap",
+      "category": "Accessories",
+      "price": 599,
+      "compareAtPrice": null,
+      "sku": "BC-0028",
+      "stock": 52,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Black",
+        "Yellow",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 37,
+      "description": "<p>Baby Beanie cap — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby Beanie cap — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/baby-beanie-cap-1.jpg",
+        "/images/products/baby-beanie-cap-2.jpg"
+      ],
+      "alt": "Baby Beanie cap",
+      "publishedAt": "2026-09-03T04:59:17+05:30",
+      "seoTitle": "Baby Beanie cap | Babycon",
+      "seoDescription": "Baby Beanie cap — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "mini-ruffle-socks",
+      "title": "Mini ruffle socks",
+      "category": "Accessories",
+      "price": 399,
+      "compareAtPrice": null,
+      "sku": "BC-0029",
+      "stock": 25,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Black",
+        "Beige",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 39,
+      "description": "<p>Mini ruffle socks — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Mini ruffle socks — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/mini-ruffle-socks-1.jpg",
+        "/images/products/mini-ruffle-socks-2.jpg"
+      ],
+      "alt": "Mini ruffle socks",
+      "publishedAt": "2026-09-03T04:50:03+05:30",
+      "seoTitle": "Mini ruffle socks | Babycon",
+      "seoDescription": "Mini ruffle socks — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "ruffle-knee-socks",
+      "title": "Ruffle knee socks",
+      "category": "Accessories",
+      "price": 420,
+      "compareAtPrice": null,
+      "sku": "BC-0030",
+      "stock": 44,
+      "sizes": [
+        "3-12 months"
+      ],
+      "colors": [
+        "Yellow",
+        "Pink",
+        "White",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 89,
+      "description": "<p>Ruffle knee socks — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ruffle knee socks — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/ruffle-knee-socks-1.jpg",
+        "/images/products/ruffle-knee-socks-2.jpg"
+      ],
+      "alt": "Ruffle knee socks",
+      "publishedAt": "2026-09-03T04:36:08+05:30",
+      "seoTitle": "Ruffle knee socks | Babycon",
+      "seoDescription": "Ruffle knee socks — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "baby-ribbed-socks",
+      "title": "Baby ribbed socks",
+      "category": "Accessories",
+      "price": 399,
+      "compareAtPrice": null,
+      "sku": "BC-0031",
+      "stock": 49,
+      "sizes": [
+        "3–12 months"
+      ],
+      "colors": [
+        "Snail",
+        "Teddy",
+        "Mouse"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 108,
+      "description": "<p>Baby ribbed socks — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby ribbed socks — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/baby-ribbed-socks-1.jpg",
+        "/images/products/baby-ribbed-socks-2.jpg"
+      ],
+      "alt": "Baby ribbed socks",
+      "publishedAt": "2026-09-03T04:22:21+05:30",
+      "seoTitle": "Baby ribbed socks | Babycon",
+      "seoDescription": "Baby ribbed socks — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "pearl-lace-bonnet-cap",
+      "title": "Pearl lace bonnet cap",
+      "category": "Accessories",
+      "price": 430,
+      "compareAtPrice": null,
+      "sku": "BC-0032",
+      "stock": 32,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 73,
+      "description": "<p>Pearl lace bonnet cap — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Pearl lace bonnet cap — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/pearl-lace-bonnet-cap-1.png"
+      ],
+      "alt": "Pearl lace bonnet cap",
+      "publishedAt": "2026-09-03T04:13:18+05:30",
+      "seoTitle": "Pearl lace bonnet cap | Babycon",
+      "seoDescription": "Pearl lace bonnet cap — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "baby-hooded-bath-towels",
+      "title": "Baby Hooded bath towels",
+      "category": "Bath & Care",
+      "price": 849,
+      "compareAtPrice": 1200,
+      "sku": "BC-0033",
+      "stock": 18,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Beige",
+        "Yellow",
+        "Pink"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 14,
+      "description": "<p>Baby Hooded bath towels — everyday care, made gentler.</p><p>Made from plush, quick-drying muslin cotton that is kind to delicate skin. Lightweight, absorbent and beautifully finished, it is designed to make bath time and daily clean-ups feel effortless.</p><h3>Why you'll love it</h3><ul><li>Ultra-soft, absorbent muslin cotton</li><li>Quick drying & lightweight</li><li>Ideal for bath, feeding and travel</li><li>Thoughtfully finished edges</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby Hooded bath towels — everyday care, made gentler.",
+      "highlights": [
+        "Ultra-soft, absorbent muslin cotton",
+        "Quick drying & lightweight",
+        "Ideal for bath, feeding and travel"
+      ],
+      "images": [
+        "/images/products/baby-hooded-bath-towels-1.jpg",
+        "/images/products/baby-hooded-bath-towels-2.jpg"
+      ],
+      "alt": "Baby Hooded bath towels",
+      "publishedAt": "2026-09-03T02:39:37+05:30",
+      "seoTitle": "Baby Hooded bath towels | Babycon",
+      "seoDescription": "Baby Hooded bath towels — everyday care, made gentler."
+    },
+    {
+      "handle": "muslin-swaddle-1",
+      "title": "Muslin Swaddle",
+      "category": "Blankets & Swaddles",
+      "price": 650,
+      "compareAtPrice": null,
+      "sku": "BC-0034",
+      "stock": 38,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Teddybear",
+        "Rainbow",
+        "Teddy",
+        "Heart"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 52,
+      "description": "<p>Muslin Swaddle — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin Swaddle — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/muslin-swaddle-1-1.png",
+        "/images/products/muslin-swaddle-1-2.jpg"
+      ],
+      "alt": "Muslin Swaddle",
+      "publishedAt": "2026-09-03T02:16:49+05:30",
+      "seoTitle": "Muslin Swaddle | Babycon",
+      "seoDescription": "Muslin Swaddle — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "cozy-baby-blanket-1",
+      "title": "Cozy Baby blanket",
+      "category": "Blankets & Swaddles",
+      "price": 2250,
+      "compareAtPrice": 2560,
+      "sku": "BC-0035",
+      "stock": 36,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Rabbit",
+        "Roses",
+        "Moon",
+        "Flower"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.8,
+      "reviewCount": 81,
+      "description": "<p>Cozy Baby blanket — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cozy Baby blanket — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/cozy-baby-blanket-1-1.jpg",
+        "/images/products/cozy-baby-blanket-1-2.jpg"
+      ],
+      "alt": "Cozy Baby blanket",
+      "publishedAt": "2026-09-03T01:39:15+05:30",
+      "seoTitle": "Cozy Baby blanket | Babycon",
+      "seoDescription": "Cozy Baby blanket — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "helloworld-3-pcs-set-blue",
+      "title": "Helloworld 3 pcs set -Blue",
+      "category": "Sets & Combos",
+      "price": 2550,
+      "compareAtPrice": null,
+      "sku": "BC-0036",
+      "stock": 35,
+      "sizes": [
+        "0-3 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "newborn-comfort-combo-set",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 42,
+      "description": "<p>Helloworld 3 pcs set -Blue — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Helloworld 3 pcs set -Blue — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/helloworld-3-pcs-set-blue-1.jpg"
+      ],
+      "alt": "Helloworld 3 pcs set -Blue",
+      "publishedAt": "2026-09-03T00:06:00+05:30",
+      "seoTitle": "Helloworld 3 pcs set -Blue | Babycon",
+      "seoDescription": "Helloworld 3 pcs set -Blue — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "helloworld-3-pcs-set-brown",
+      "title": "Helloworld 3 pcs set -Brown",
+      "category": "Sets & Combos",
+      "price": 2550,
+      "compareAtPrice": 3700,
+      "sku": "BC-0037",
+      "stock": 28,
+      "sizes": [
+        "0-3 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "New in",
+      "rating": 4.8,
+      "reviewCount": 118,
+      "description": "<p>Helloworld 3 pcs set -Brown — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Helloworld 3 pcs set -Brown — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/helloworld-3-pcs-set-brown-1.jpg"
+      ],
+      "alt": "Helloworld 3 pcs set -Brown",
+      "publishedAt": "2026-09-02T23:47:06+05:30",
+      "seoTitle": "Helloworld 3 pcs set -Brown | Babycon",
+      "seoDescription": "Helloworld 3 pcs set -Brown — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "helloworld-3-pcs-set-copy",
+      "title": "Helloworld 3 pcs set -Beige",
+      "category": "Sets & Combos",
+      "price": 2550,
+      "compareAtPrice": 3400,
+      "sku": "BC-0038",
+      "stock": 12,
+      "sizes": [
+        "0-3 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "newborn-comfort-combo-set",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "Bestseller",
+      "rating": 5,
+      "reviewCount": 53,
+      "description": "<p>Helloworld 3 pcs set -Beige — a ready-made outfit for life's little moments.</p><p>This thoughtfully curated set brings together soft, breathable pieces that mix, match and layer beautifully. Finished with gentle seams and easy closures, it is the sweetest shortcut to a put-together look.</p><h3>Why you'll love it</h3><ul><li>Coordinated pieces in premium cotton</li><li>Soft, breathable & gentle on skin</li><li>Easy dressing for everyday adventures</li><li>Beautifully boxed for gifting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Helloworld 3 pcs set -Beige — a ready-made outfit for life's little moments.",
+      "highlights": [
+        "Coordinated pieces in premium cotton",
+        "Soft, breathable & gentle on skin",
+        "Easy dressing for everyday adventures"
+      ],
+      "images": [
+        "/images/products/helloworld-3-pcs-set-copy-1.jpg",
+        "/images/products/helloworld-3-pcs-set-copy-2.jpg"
+      ],
+      "alt": "Helloworld 3 pcs set -Beige",
+      "publishedAt": "2026-09-02T20:00:46+05:30",
+      "seoTitle": "Helloworld 3 pcs set -Beige | Babycon",
+      "seoDescription": "Helloworld 3 pcs set -Beige — a ready-made outfit for life's little moments."
+    },
+    {
+      "handle": "ivory-lace-frock",
+      "title": "Ivory lace frock",
+      "category": "Dresses",
+      "price": 1299,
+      "compareAtPrice": 1580,
+      "sku": "BC-0039",
+      "stock": 54,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.8,
+      "reviewCount": 76,
+      "description": "<p>Ivory lace frock — made for tiny celebrations and ordinary magic.</p><p>A beautifully finished piece in soft, breathable fabric with thoughtful details at the neckline and hem. Easy to slip on, easy to move in and lovely enough for the moments you will want to remember.</p><h3>Why you'll love it</h3><ul><li>Soft, breathable premium fabric</li><li>Easy dressing with snap or button closure</li><li>Delicate, machine-washable finish</li><li>Designed for special days & everyday twirls</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ivory lace frock — made for tiny celebrations and ordinary magic.",
+      "highlights": [
+        "Soft, breathable premium fabric",
+        "Easy dressing with snap or button closure",
+        "Delicate, machine-washable finish"
+      ],
+      "images": [
+        "/images/products/ivory-lace-frock-1.jpg",
+        "/images/products/ivory-lace-frock-2.jpg"
+      ],
+      "alt": "Ivory lace frock",
+      "publishedAt": "2026-09-02T16:14:35+05:30",
+      "seoTitle": "Ivory lace frock | Babycon",
+      "seoDescription": "Ivory lace frock — made for tiny celebrations and ordinary magic."
+    },
+    {
+      "handle": "comfy-cord-set",
+      "title": "Comfy cord set",
+      "category": "Co-ords & Sets",
+      "price": 1299,
+      "compareAtPrice": 2000,
+      "sku": "BC-0040",
+      "stock": 42,
+      "sizes": [
+        "1 year"
+      ],
+      "colors": [
+        "Blue",
+        "Yellow"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "newborn-comfort-combo-set",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 85,
+      "description": "<p>Comfy cord set — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Comfy cord set — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/comfy-cord-set-1.jpg",
+        "/images/products/comfy-cord-set-2.png"
+      ],
+      "alt": "Comfy cord set",
+      "publishedAt": "2026-09-02T16:02:24+05:30",
+      "seoTitle": "Comfy cord set | Babycon",
+      "seoDescription": "Comfy cord set — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "strip-romper",
+      "title": "Strip romper",
+      "category": "Rompers & Onesies",
+      "price": 1150,
+      "compareAtPrice": null,
+      "sku": "BC-0041",
+      "stock": 19,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 35,
+      "description": "<p>Strip romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Strip romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/strip-romper-1.jpg"
+      ],
+      "alt": "Strip romper",
+      "publishedAt": "2026-09-02T15:47:03+05:30",
+      "seoTitle": "Strip romper | Babycon",
+      "seoDescription": "Strip romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "blue-bell-denim",
+      "title": "Blue bell denim",
+      "category": "Everyday Essentials",
+      "price": 1399,
+      "compareAtPrice": null,
+      "sku": "BC-0042",
+      "stock": 52,
+      "sizes": [
+        "6-12 month"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.9,
+      "reviewCount": 59,
+      "description": "<p>Blue bell denim — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Blue bell denim — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/blue-bell-denim-1.jpg"
+      ],
+      "alt": "Blue bell denim",
+      "publishedAt": "2026-09-02T14:29:21+05:30",
+      "seoTitle": "Blue bell denim | Babycon",
+      "seoDescription": "Blue bell denim — softness they will live in, all day long."
+    },
+    {
+      "handle": "mocha-cozy-onesie",
+      "title": "Mocha cozy Onesie",
+      "category": "Rompers & Onesies",
+      "price": 999,
+      "compareAtPrice": null,
+      "sku": "BC-0043",
+      "stock": 31,
+      "sizes": [
+        "0-3 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 119,
+      "description": "<p>Mocha cozy Onesie — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Mocha cozy Onesie — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/mocha-cozy-onesie-1.png"
+      ],
+      "alt": "Mocha cozy Onesie",
+      "publishedAt": "2026-09-02T14:24:31+05:30",
+      "seoTitle": "Mocha cozy Onesie | Babycon",
+      "seoDescription": "Mocha cozy Onesie — softness they will live in, all day long."
+    },
+    {
+      "handle": "matcha-cozy-onesie",
+      "title": "Matcha cozy onesie",
+      "category": "Rompers & Onesies",
+      "price": 999,
+      "compareAtPrice": null,
+      "sku": "BC-0044",
+      "stock": 14,
+      "sizes": [
+        "0-3 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.8,
+      "reviewCount": 109,
+      "description": "<p>Matcha cozy onesie — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Matcha cozy onesie — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/matcha-cozy-onesie-1.png"
+      ],
+      "alt": "Matcha cozy onesie",
+      "publishedAt": "2026-09-02T14:20:36+05:30",
+      "seoTitle": "Matcha cozy onesie | Babycon",
+      "seoDescription": "Matcha cozy onesie — softness they will live in, all day long."
+    },
+    {
+      "handle": "baby-denim-pants",
+      "title": "Baby Denim pants",
+      "category": "Co-ords & Sets",
+      "price": 1180,
+      "compareAtPrice": null,
+      "sku": "BC-0045",
+      "stock": 26,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Blue",
+        "White",
+        "Black"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 62,
+      "description": "<p>Baby Denim pants — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby Denim pants — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/baby-denim-pants-1.jpg",
+        "/images/products/baby-denim-pants-2.jpg"
+      ],
+      "alt": "Baby Denim pants",
+      "publishedAt": "2026-09-02T13:41:06+05:30",
+      "seoTitle": "Baby Denim pants | Babycon",
+      "seoDescription": "Baby Denim pants — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "latte-cordset",
+      "title": "Latte Cordset",
+      "category": "Co-ords & Sets",
+      "price": 1399,
+      "compareAtPrice": 1840,
+      "sku": "BC-0046",
+      "stock": 39,
+      "sizes": [
+        "6-12months"
+      ],
+      "colors": [
+        "white",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-6-12m",
+        "newborn-comfort-combo-set",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 5,
+      "reviewCount": 56,
+      "description": "<p>Latte Cordset — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Latte Cordset — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/latte-cordset-1.jpg",
+        "/images/products/latte-cordset-2.jpg"
+      ],
+      "alt": "Latte Cordset",
+      "publishedAt": "2026-09-02T12:57:33+05:30",
+      "seoTitle": "Latte Cordset | Babycon",
+      "seoDescription": "Latte Cordset — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "cozy-hooded-romper",
+      "title": "Cozy hooded romper",
+      "category": "Rompers & Onesies",
+      "price": 1349,
+      "compareAtPrice": null,
+      "sku": "BC-0047",
+      "stock": 40,
+      "sizes": [
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "Beige",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 44,
+      "description": "<p>Cozy hooded romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cozy hooded romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/cozy-hooded-romper-1.jpg",
+        "/images/products/cozy-hooded-romper-2.jpg"
+      ],
+      "alt": "Cozy hooded romper",
+      "publishedAt": "2026-09-02T11:55:37+05:30",
+      "seoTitle": "Cozy hooded romper | Babycon",
+      "seoDescription": "Cozy hooded romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "cloudy-hooded-romper",
+      "title": "Cloudy Hooded romper",
+      "category": "Rompers & Onesies",
+      "price": 1380,
+      "compareAtPrice": null,
+      "sku": "BC-0048",
+      "stock": 13,
+      "sizes": [
+        "3-6 months"
+      ],
+      "colors": [
+        "Beige",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 69,
+      "description": "<p>Cloudy Hooded romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cloudy Hooded romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/cloudy-hooded-romper-1.jpg",
+        "/images/products/cloudy-hooded-romper-2.jpg"
+      ],
+      "alt": "Cloudy Hooded romper",
+      "publishedAt": "2026-09-02T11:20:41+05:30",
+      "seoTitle": "Cloudy Hooded romper | Babycon",
+      "seoDescription": "Cloudy Hooded romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "winnie-frock",
+      "title": "Winnie frock",
+      "category": "Dresses",
+      "price": 1699,
+      "compareAtPrice": 1980,
+      "sku": "BC-0049",
+      "stock": 33,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [
+        "Pink",
+        "Blue"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 9,
+      "description": "<p>Winnie frock — made for tiny celebrations and ordinary magic.</p><p>A beautifully finished piece in soft, breathable fabric with thoughtful details at the neckline and hem. Easy to slip on, easy to move in and lovely enough for the moments you will want to remember.</p><h3>Why you'll love it</h3><ul><li>Soft, breathable premium fabric</li><li>Easy dressing with snap or button closure</li><li>Delicate, machine-washable finish</li><li>Designed for special days & everyday twirls</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Winnie frock — made for tiny celebrations and ordinary magic.",
+      "highlights": [
+        "Soft, breathable premium fabric",
+        "Easy dressing with snap or button closure",
+        "Delicate, machine-washable finish"
+      ],
+      "images": [
+        "/images/products/winnie-frock-1.jpg",
+        "/images/products/winnie-frock-2.jpg"
+      ],
+      "alt": "Winnie frock",
+      "publishedAt": "2026-09-02T10:58:48+05:30",
+      "seoTitle": "Winnie frock | Babycon",
+      "seoDescription": "Winnie frock — made for tiny celebrations and ordinary magic."
+    },
+    {
+      "handle": "ruby-bow",
+      "title": "Ruby bow",
+      "category": "Accessories",
+      "price": 1199,
+      "compareAtPrice": 1710,
+      "sku": "BC-0050",
+      "stock": 51,
+      "sizes": [
+        "6-12 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-6-12m",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.8,
+      "reviewCount": 40,
+      "description": "<p>Ruby bow — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ruby bow — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/ruby-bow-1.jpg"
+      ],
+      "alt": "Ruby bow",
+      "publishedAt": "2026-09-02T02:21:58+05:30",
+      "seoTitle": "Ruby bow | Babycon",
+      "seoDescription": "Ruby bow — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "baby-sleeping-bag",
+      "title": "Baby sleeping bag",
+      "category": "Blankets & Swaddles",
+      "price": 1749,
+      "compareAtPrice": null,
+      "sku": "BC-0051",
+      "stock": 34,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Moon",
+        "Bunny",
+        "Teddy"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 86,
+      "description": "<p>Baby sleeping bag — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby sleeping bag — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/baby-sleeping-bag-1.jpg",
+        "/images/products/baby-sleeping-bag-2.jpg"
+      ],
+      "alt": "Baby sleeping bag",
+      "publishedAt": "2026-09-02T00:15:57+05:30",
+      "seoTitle": "Baby sleeping bag | Babycon",
+      "seoDescription": "Baby sleeping bag — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "cozy-blanket",
+      "title": "Cozy Blanket",
+      "category": "Blankets & Swaddles",
+      "price": 1799,
+      "compareAtPrice": 2190,
+      "sku": "BC-0052",
+      "stock": 41,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Heart",
+        "Teddy"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "Loved by parents",
+      "rating": 4.9,
+      "reviewCount": 74,
+      "description": "<p>Cozy Blanket — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cozy Blanket — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/cozy-blanket-1.jpg",
+        "/images/products/cozy-blanket-2.jpg"
+      ],
+      "alt": "Cozy Blanket",
+      "publishedAt": "2026-09-01T23:32:48+05:30",
+      "seoTitle": "Cozy Blanket | Babycon",
+      "seoDescription": "Cozy Blanket — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "marshmallow-hoodie-1",
+      "title": "Marshmallow Hoodie",
+      "category": "Co-ords & Sets",
+      "price": 1349,
+      "compareAtPrice": null,
+      "sku": "BC-0053",
+      "stock": 47,
+      "sizes": [
+        "1-3 m",
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 93,
+      "description": "<p>Marshmallow Hoodie — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Marshmallow Hoodie — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/marshmallow-hoodie-1-1.jpg",
+        "/images/products/marshmallow-hoodie-1-2.jpg"
+      ],
+      "alt": "Marshmallow Hoodie",
+      "publishedAt": "2026-09-01T23:17:07+05:30",
+      "seoTitle": "Marshmallow Hoodie | Babycon",
+      "seoDescription": "Marshmallow Hoodie — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "bow-belle",
+      "title": "Bow belle",
+      "category": "Dresses",
+      "price": 1099,
+      "compareAtPrice": null,
+      "sku": "BC-0054",
+      "stock": 40,
+      "sizes": [
+        "0-3 m",
+        "3-6 m",
+        "6-9 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 96,
+      "description": "<p>Bow belle — made for tiny celebrations and ordinary magic.</p><p>A beautifully finished piece in soft, breathable fabric with thoughtful details at the neckline and hem. Easy to slip on, easy to move in and lovely enough for the moments you will want to remember.</p><h3>Why you'll love it</h3><ul><li>Soft, breathable premium fabric</li><li>Easy dressing with snap or button closure</li><li>Delicate, machine-washable finish</li><li>Designed for special days & everyday twirls</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Bow belle — made for tiny celebrations and ordinary magic.",
+      "highlights": [
+        "Soft, breathable premium fabric",
+        "Easy dressing with snap or button closure",
+        "Delicate, machine-washable finish"
+      ],
+      "images": [
+        "/images/products/bow-belle-1.jpg"
+      ],
+      "alt": "Bow belle",
+      "publishedAt": "2026-09-01T19:51:43+05:30",
+      "seoTitle": "Bow belle | Babycon",
+      "seoDescription": "Bow belle — made for tiny celebrations and ordinary magic."
+    },
+    {
+      "handle": "denim-scallop-frock",
+      "title": "Denim scallop frock",
+      "category": "Dresses",
+      "price": 1699,
+      "compareAtPrice": null,
+      "sku": "BC-0055",
+      "stock": 32,
+      "sizes": [
+        "6-12m",
+        "3-6 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 125,
+      "description": "<p>Denim scallop frock — made for tiny celebrations and ordinary magic.</p><p>A beautifully finished piece in soft, breathable fabric with thoughtful details at the neckline and hem. Easy to slip on, easy to move in and lovely enough for the moments you will want to remember.</p><h3>Why you'll love it</h3><ul><li>Soft, breathable premium fabric</li><li>Easy dressing with snap or button closure</li><li>Delicate, machine-washable finish</li><li>Designed for special days & everyday twirls</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Denim scallop frock — made for tiny celebrations and ordinary magic.",
+      "highlights": [
+        "Soft, breathable premium fabric",
+        "Easy dressing with snap or button closure",
+        "Delicate, machine-washable finish"
+      ],
+      "images": [
+        "/images/products/denim-scallop-frock-1.jpg"
+      ],
+      "alt": "Denim scallop frock",
+      "publishedAt": "2026-09-01T19:47:31+05:30",
+      "seoTitle": "Denim scallop frock | Babycon",
+      "seoDescription": "Denim scallop frock — made for tiny celebrations and ordinary magic."
+    },
+    {
+      "handle": "romper-1",
+      "title": "Romper",
+      "category": "Rompers & Onesies",
+      "price": 799,
+      "compareAtPrice": 1180,
+      "sku": "BC-0056",
+      "stock": 54,
+      "sizes": [
+        "0-6 months"
+      ],
+      "colors": [
+        "Green",
+        "Red",
+        "Brown",
+        "Black"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 10,
+      "description": "<p>Romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/romper-1-1.png",
+        "/images/products/romper-1-2.png"
+      ],
+      "alt": "Romper",
+      "publishedAt": "2026-07-24T12:21:40+05:30",
+      "seoTitle": "Romper | Babycon",
+      "seoDescription": "Romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "muslin-lace-blanket-floral",
+      "title": "Muslin Lace blanket- floral",
+      "category": "Blankets & Swaddles",
+      "price": 999,
+      "compareAtPrice": null,
+      "sku": "BC-0057",
+      "stock": 20,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 116,
+      "description": "<p>Muslin Lace blanket- floral — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin Lace blanket- floral — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/muslin-lace-blanket-floral-1.png"
+      ],
+      "alt": "Muslin Lace blanket- floral",
+      "publishedAt": "2026-07-24T12:06:26+05:30",
+      "seoTitle": "Muslin Lace blanket- floral | Babycon",
+      "seoDescription": "Muslin Lace blanket- floral — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "baby-face-towels",
+      "title": "Baby face towels",
+      "category": "Bath & Care",
+      "price": 169,
+      "compareAtPrice": 190,
+      "sku": "BC-0058",
+      "stock": 25,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Teddy",
+        "Strawberry",
+        "Tulip",
+        "Floral",
+        "Rainbow",
+        "Flower",
+        "Dinosaur",
+        "Teddybear",
+        "Bunny",
+        "Lemon"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "New in",
+      "rating": 4.9,
+      "reviewCount": 42,
+      "description": "<p>Baby face towels — everyday care, made gentler.</p><p>Made from plush, quick-drying muslin cotton that is kind to delicate skin. Lightweight, absorbent and beautifully finished, it is designed to make bath time and daily clean-ups feel effortless.</p><h3>Why you'll love it</h3><ul><li>Ultra-soft, absorbent muslin cotton</li><li>Quick drying & lightweight</li><li>Ideal for bath, feeding and travel</li><li>Thoughtfully finished edges</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby face towels — everyday care, made gentler.",
+      "highlights": [
+        "Ultra-soft, absorbent muslin cotton",
+        "Quick drying & lightweight",
+        "Ideal for bath, feeding and travel"
+      ],
+      "images": [
+        "/images/products/baby-face-towels-1.jpg",
+        "/images/products/baby-face-towels-2.jpg",
+        "/images/products/baby-face-towels-3.jpg",
+        "/images/products/baby-face-towels-4.png"
+      ],
+      "alt": "Baby face towels",
+      "publishedAt": "2026-07-22T12:42:41+05:30",
+      "seoTitle": "Baby face towels | Babycon",
+      "seoDescription": "Baby face towels — everyday care, made gentler."
+    },
+    {
+      "handle": "muslin-romber-teddy",
+      "title": "Muslin romper- teddy",
+      "category": "Rompers & Onesies",
+      "price": 899,
+      "compareAtPrice": 1170,
+      "sku": "BC-0059",
+      "stock": 30,
+      "sizes": [
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.7,
+      "reviewCount": 20,
+      "description": "<p>Muslin romper- teddy — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin romper- teddy — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/muslin-romber-teddy-1.jpg"
+      ],
+      "alt": "Muslin romper- teddy",
+      "publishedAt": "2026-07-21T15:57:50+05:30",
+      "seoTitle": "Muslin romper- teddy | Babycon",
+      "seoDescription": "Muslin romper- teddy — softness they will live in, all day long."
+    },
+    {
+      "handle": "teddy-patch-romper-yellow",
+      "title": "Teddy patch romper-yellow",
+      "category": "Rompers & Onesies",
+      "price": 899,
+      "compareAtPrice": null,
+      "sku": "BC-0060",
+      "stock": 46,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 73,
+      "description": "<p>Teddy patch romper-yellow — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Teddy patch romper-yellow — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/teddy-patch-romper-yellow-1.jpg"
+      ],
+      "alt": "Teddy patch romper-yellow",
+      "publishedAt": "2026-07-15T12:47:19+05:30",
+      "seoTitle": "Teddy patch romper-yellow | Babycon",
+      "seoDescription": "Teddy patch romper-yellow — softness they will live in, all day long."
+    },
+    {
+      "handle": "teddy-patch-romper-blue",
+      "title": "Teddy patch romper-Blue",
+      "category": "Rompers & Onesies",
+      "price": 899,
+      "compareAtPrice": null,
+      "sku": "BC-0061",
+      "stock": 56,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 109,
+      "description": "<p>Teddy patch romper-Blue — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Teddy patch romper-Blue — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/teddy-patch-romper-blue-1.png"
+      ],
+      "alt": "Teddy patch romper-Blue",
+      "publishedAt": "2026-07-15T12:45:08+05:30",
+      "seoTitle": "Teddy patch romper-Blue | Babycon",
+      "seoDescription": "Teddy patch romper-Blue — softness they will live in, all day long."
+    },
+    {
+      "handle": "waffle-teddy-brown",
+      "title": "Waffle teddy-Brown",
+      "category": "Everyday Essentials",
+      "price": 999,
+      "compareAtPrice": 1390,
+      "sku": "BC-0062",
+      "stock": 27,
+      "sizes": [
+        "6-12m",
+        "3-6 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 5,
+      "reviewCount": 98,
+      "description": "<p>Waffle teddy-Brown — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Waffle teddy-Brown — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/waffle-teddy-brown-1.png"
+      ],
+      "alt": "Waffle teddy-Brown",
+      "publishedAt": "2026-07-14T22:53:17+05:30",
+      "seoTitle": "Waffle teddy-Brown | Babycon",
+      "seoDescription": "Waffle teddy-Brown — softness they will live in, all day long."
+    },
+    {
+      "handle": "petite-pinafore-dungarees",
+      "title": "Petite pinafore & Dungarees",
+      "category": "Dungarees",
+      "price": 2299,
+      "compareAtPrice": 3380,
+      "sku": "BC-0063",
+      "stock": 42,
+      "sizes": [
+        "9-12 months"
+      ],
+      "colors": [
+        "Dungaree",
+        "Pinafore",
+        "Brown",
+        "Bronze"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.8,
+      "reviewCount": 124,
+      "description": "<p>Petite pinafore & Dungarees — playful, practical and impossibly cute.</p><p>Cut from durable, soft cotton with an adjustable fit and easy-access snaps. Roomy enough for cloth nappies and active play, and finished with details that make every outfit feel special.</p><h3>Why you'll love it</h3><ul><li>Soft yet durable cotton</li><li>Adjustable straps for a growing fit</li><li>Snap closure for quick changes</li><li>Layers beautifully over tees & bodysuits</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Petite pinafore & Dungarees — playful, practical and impossibly cute.",
+      "highlights": [
+        "Soft yet durable cotton",
+        "Adjustable straps for a growing fit",
+        "Snap closure for quick changes"
+      ],
+      "images": [
+        "/images/products/petite-pinafore-dungarees-1.png",
+        "/images/products/petite-pinafore-dungarees-2.jpg"
+      ],
+      "alt": "Petite pinafore & Dungarees",
+      "publishedAt": "2026-07-06T20:15:33+05:30",
+      "seoTitle": "Petite pinafore & Dungarees | Babycon",
+      "seoDescription": "Petite pinafore & Dungarees — playful, practical and impossibly cute."
+    },
+    {
+      "handle": "ribbed-zip-sleepsuit",
+      "title": "Ribbed zip sleepsuit",
+      "category": "Rompers & Onesies",
+      "price": 1099,
+      "compareAtPrice": null,
+      "sku": "BC-0064",
+      "stock": 23,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "White",
+        "Blue",
+        "Brown",
+        "Pink",
+        "Green"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.9,
+      "reviewCount": 34,
+      "description": "<p>Ribbed zip sleepsuit — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ribbed zip sleepsuit — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/ribbed-zip-sleepsuit-1.png",
+        "/images/products/ribbed-zip-sleepsuit-2.jpg"
+      ],
+      "alt": "Ribbed zip sleepsuit",
+      "publishedAt": "2026-06-25T22:53:28+05:30",
+      "seoTitle": "Ribbed zip sleepsuit | Babycon",
+      "seoDescription": "Ribbed zip sleepsuit — softness they will live in, all day long."
+    },
+    {
+      "handle": "muslin-onesie",
+      "title": "Muslin Onesie",
+      "category": "Rompers & Onesies",
+      "price": 850,
+      "compareAtPrice": null,
+      "sku": "BC-0065",
+      "stock": 22,
+      "sizes": [
+        "0-3 months",
+        "3-6 months"
+      ],
+      "colors": [
+        "Blue",
+        "Green",
+        "Beige"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 53,
+      "description": "<p>Muslin Onesie — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Muslin Onesie — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/muslin-onesie-1.png",
+        "/images/products/muslin-onesie-2.png"
+      ],
+      "alt": "Muslin Onesie",
+      "publishedAt": "2026-06-25T21:52:25+05:30",
+      "seoTitle": "Muslin Onesie | Babycon",
+      "seoDescription": "Muslin Onesie — softness they will live in, all day long."
+    },
+    {
+      "handle": "kimono-muslin-romper-copy-2",
+      "title": "Kimono romper",
+      "category": "Rompers & Onesies",
+      "price": 799,
+      "compareAtPrice": 910,
+      "sku": "BC-0066",
+      "stock": 41,
+      "sizes": [
+        "0-3 months",
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [
+        "Moon",
+        "Hearts",
+        "Bow",
+        "peach",
+        "Puppy",
+        "Flower",
+        "Bunny"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "Loved by parents",
+      "rating": 4.9,
+      "reviewCount": 12,
+      "description": "<p>Kimono romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Kimono romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/kimono-muslin-romper-copy-2-1.jpg",
+        "/images/products/kimono-muslin-romper-copy-2-2.jpg",
+        "/images/products/kimono-muslin-romper-copy-2-3.jpg",
+        "/images/products/kimono-muslin-romper-copy-2-4.jpg"
+      ],
+      "alt": "Kimono romper",
+      "publishedAt": "2026-05-23T01:37:49+05:30",
+      "seoTitle": "Kimono romper | Babycon",
+      "seoDescription": "Kimono romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "polka-paws",
+      "title": "Polka & paws",
+      "category": "Everyday Essentials",
+      "price": 950,
+      "compareAtPrice": null,
+      "sku": "BC-0067",
+      "stock": 31,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [
+        "Dot",
+        "Teddy"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 82,
+      "description": "<p>Polka & paws — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Polka & paws — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/polka-paws-1.jpg",
+        "/images/products/polka-paws-2.jpg"
+      ],
+      "alt": "Polka & paws",
+      "publishedAt": "2026-05-22T22:43:13+05:30",
+      "seoTitle": "Polka & paws | Babycon",
+      "seoDescription": "Polka & paws — softness they will live in, all day long."
+    },
+    {
+      "handle": "denim-hearts",
+      "title": "Denim hearts",
+      "category": "Everyday Essentials",
+      "price": 1150,
+      "compareAtPrice": null,
+      "sku": "BC-0068",
+      "stock": 37,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [
+        "Light blue",
+        "Dark blue"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 68,
+      "description": "<p>Denim hearts — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Denim hearts — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/denim-hearts-1.jpg",
+        "/images/products/denim-hearts-2.jpg"
+      ],
+      "alt": "Denim hearts",
+      "publishedAt": "2026-05-22T18:05:21+05:30",
+      "seoTitle": "Denim hearts | Babycon",
+      "seoDescription": "Denim hearts — softness they will live in, all day long."
+    },
+    {
+      "handle": "teddy-berry",
+      "title": "Teddy berry",
+      "category": "Everyday Essentials",
+      "price": 1249,
+      "compareAtPrice": null,
+      "sku": "BC-0069",
+      "stock": 31,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [
+        "Teddy",
+        "Strawberry"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 14,
+      "description": "<p>Teddy berry — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Teddy berry — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/teddy-berry-1.jpg",
+        "/images/products/teddy-berry-2.jpg"
+      ],
+      "alt": "Teddy berry",
+      "publishedAt": "2026-05-22T17:52:34+05:30",
+      "seoTitle": "Teddy berry | Babycon",
+      "seoDescription": "Teddy berry — softness they will live in, all day long."
+    },
+    {
+      "handle": "blush-tulle-romper",
+      "title": "Blush tulle romper",
+      "category": "Dresses",
+      "price": 1050,
+      "compareAtPrice": 1500,
+      "sku": "BC-0070",
+      "stock": 30,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.6,
+      "reviewCount": 96,
+      "description": "<p>Blush tulle romper — made for tiny celebrations and ordinary magic.</p><p>A beautifully finished piece in soft, breathable fabric with thoughtful details at the neckline and hem. Easy to slip on, easy to move in and lovely enough for the moments you will want to remember.</p><h3>Why you'll love it</h3><ul><li>Soft, breathable premium fabric</li><li>Easy dressing with snap or button closure</li><li>Delicate, machine-washable finish</li><li>Designed for special days & everyday twirls</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Blush tulle romper — made for tiny celebrations and ordinary magic.",
+      "highlights": [
+        "Soft, breathable premium fabric",
+        "Easy dressing with snap or button closure",
+        "Delicate, machine-washable finish"
+      ],
+      "images": [
+        "/images/products/blush-tulle-romper-1.jpg"
+      ],
+      "alt": "Blush tulle romper",
+      "publishedAt": "2026-05-22T17:37:14+05:30",
+      "seoTitle": "Blush tulle romper | Babycon",
+      "seoDescription": "Blush tulle romper — made for tiny celebrations and ordinary magic."
+    },
+    {
+      "handle": "black-daisy-romper",
+      "title": "Black daisy romper",
+      "category": "Rompers & Onesies",
+      "price": 1150,
+      "compareAtPrice": null,
+      "sku": "BC-0071",
+      "stock": 52,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 101,
+      "description": "<p>Black daisy romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Black daisy romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/black-daisy-romper-1.jpg"
+      ],
+      "alt": "Black daisy romper",
+      "publishedAt": "2026-05-22T16:15:33+05:30",
+      "seoTitle": "Black daisy romper | Babycon",
+      "seoDescription": "Black daisy romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "roselle-frock",
+      "title": "Roselle frock",
+      "category": "Dresses",
+      "price": 1350,
+      "compareAtPrice": 1650,
+      "sku": "BC-0072",
+      "stock": 33,
+      "sizes": [
+        "3-6 m",
+        "6-12 m"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 5,
+      "reviewCount": 9,
+      "description": "<p>Roselle frock — made for tiny celebrations and ordinary magic.</p><p>A beautifully finished piece in soft, breathable fabric with thoughtful details at the neckline and hem. Easy to slip on, easy to move in and lovely enough for the moments you will want to remember.</p><h3>Why you'll love it</h3><ul><li>Soft, breathable premium fabric</li><li>Easy dressing with snap or button closure</li><li>Delicate, machine-washable finish</li><li>Designed for special days & everyday twirls</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Roselle frock — made for tiny celebrations and ordinary magic.",
+      "highlights": [
+        "Soft, breathable premium fabric",
+        "Easy dressing with snap or button closure",
+        "Delicate, machine-washable finish"
+      ],
+      "images": [
+        "/images/products/roselle-frock-1.jpg"
+      ],
+      "alt": "Roselle frock",
+      "publishedAt": "2026-05-22T16:06:39+05:30",
+      "seoTitle": "Roselle frock | Babycon",
+      "seoDescription": "Roselle frock — made for tiny celebrations and ordinary magic."
+    },
+    {
+      "handle": "june-belle",
+      "title": "June belle",
+      "category": "Dresses",
+      "price": 849,
+      "compareAtPrice": 1090,
+      "sku": "BC-0073",
+      "stock": 15,
+      "sizes": [
+        "3-6 M",
+        "6-12 M"
+      ],
+      "colors": [
+        "Pink",
+        "Green",
+        "Sand"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.8,
+      "reviewCount": 114,
+      "description": "<p>June belle — made for tiny celebrations and ordinary magic.</p><p>A beautifully finished piece in soft, breathable fabric with thoughtful details at the neckline and hem. Easy to slip on, easy to move in and lovely enough for the moments you will want to remember.</p><h3>Why you'll love it</h3><ul><li>Soft, breathable premium fabric</li><li>Easy dressing with snap or button closure</li><li>Delicate, machine-washable finish</li><li>Designed for special days & everyday twirls</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "June belle — made for tiny celebrations and ordinary magic.",
+      "highlights": [
+        "Soft, breathable premium fabric",
+        "Easy dressing with snap or button closure",
+        "Delicate, machine-washable finish"
+      ],
+      "images": [
+        "/images/products/june-belle-1.jpg",
+        "/images/products/june-belle-2.jpg"
+      ],
+      "alt": "June belle",
+      "publishedAt": "2026-05-22T12:26:06+05:30",
+      "seoTitle": "June belle | Babycon",
+      "seoDescription": "June belle — made for tiny celebrations and ordinary magic."
+    },
+    {
+      "handle": "kimono-muslin-romper-copy",
+      "title": "Kimono romper",
+      "category": "Rompers & Onesies",
+      "price": 799,
+      "compareAtPrice": 950,
+      "sku": "BC-0074",
+      "stock": 34,
+      "sizes": [
+        "0-3 months",
+        "3-6 months",
+        "6-12 months"
+      ],
+      "colors": [
+        "Strawberry",
+        "Animal",
+        "Leaf",
+        "Fruit",
+        "Rabbit",
+        "Flower",
+        "Bear",
+        "Teddy",
+        "Floral",
+        "Tulip"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": true,
+      "badge": "New in",
+      "rating": 4.9,
+      "reviewCount": 43,
+      "description": "<p>Kimono romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Kimono romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/kimono-muslin-romper-copy-1.png",
+        "/images/products/kimono-muslin-romper-copy-2.png",
+        "/images/products/kimono-muslin-romper-copy-3.png",
+        "/images/products/kimono-muslin-romper-copy-4.png"
+      ],
+      "alt": "Kimono romper",
+      "publishedAt": "2026-05-22T00:00:19+05:30",
+      "seoTitle": "Kimono romper | Babycon",
+      "seoDescription": "Kimono romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "heart-beanie-cap",
+      "title": "Heart beanie cap",
+      "category": "Accessories",
+      "price": 499,
+      "compareAtPrice": null,
+      "sku": "BC-0075",
+      "stock": 56,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Black",
+        "Grey",
+        "Brown",
+        "Bronze",
+        "Beige"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.9,
+      "reviewCount": 43,
+      "description": "<p>Heart beanie cap — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Heart beanie cap — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/heart-beanie-cap-1.png",
+        "/images/products/heart-beanie-cap-2.png"
+      ],
+      "alt": "Heart beanie cap",
+      "publishedAt": "2026-05-21T22:54:53+05:30",
+      "seoTitle": "Heart beanie cap | Babycon",
+      "seoDescription": "Heart beanie cap — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "snow-flake-romper",
+      "title": "Snow flake romper",
+      "category": "Rompers & Onesies",
+      "price": 1320,
+      "compareAtPrice": null,
+      "sku": "BC-0076",
+      "stock": 20,
+      "sizes": [
+        "0-3 M",
+        "3-6 M",
+        "6-9 M"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 90,
+      "description": "<p>Snow flake romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Snow flake romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/snow-flake-romper-1.jpg"
+      ],
+      "alt": "Snow flake romper",
+      "publishedAt": "2026-05-21T21:40:34+05:30",
+      "seoTitle": "Snow flake romper | Babycon",
+      "seoDescription": "Snow flake romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "cozy-onesie",
+      "title": "Cozy onesie",
+      "category": "Rompers & Onesies",
+      "price": 799,
+      "compareAtPrice": null,
+      "sku": "BC-0077",
+      "stock": 13,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Pink",
+        "Blue",
+        "Brown",
+        "Beige",
+        "Yellow"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 28,
+      "description": "<p>Cozy onesie — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cozy onesie — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/cozy-onesie-1.jpg",
+        "/images/products/cozy-onesie-2.jpg"
+      ],
+      "alt": "Cozy onesie",
+      "publishedAt": "2026-05-20T12:51:43+05:30",
+      "seoTitle": "Cozy onesie | Babycon",
+      "seoDescription": "Cozy onesie — softness they will live in, all day long."
+    },
+    {
+      "handle": "untitled-mar24_20-03",
+      "title": "Cap & mittens",
+      "category": "Accessories",
+      "price": 490,
+      "compareAtPrice": null,
+      "sku": "BC-0078",
+      "stock": 44,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "white",
+        "Green",
+        "Pink",
+        "Blue",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 48,
+      "description": "<p>Cap & mittens — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cap & mittens — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/untitled-mar24_20-03-1.jpg",
+        "/images/products/untitled-mar24_20-03-2.jpg"
+      ],
+      "alt": "Cap & mittens",
+      "publishedAt": "2026-03-24T20:47:24+05:30",
+      "seoTitle": "Cap & mittens | Babycon",
+      "seoDescription": "Cap & mittens — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "teddy-socks",
+      "title": "Teddy socks",
+      "category": "Accessories",
+      "price": 350,
+      "compareAtPrice": 450,
+      "sku": "BC-0079",
+      "stock": 33,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "white",
+        "Pink",
+        "Yellow",
+        "Brown",
+        "Gray"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.7,
+      "reviewCount": 25,
+      "description": "<p>Teddy socks — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Teddy socks — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/teddy-socks-1.jpg",
+        "/images/products/teddy-socks-2.jpg"
+      ],
+      "alt": "Teddy socks",
+      "publishedAt": "2026-03-24T20:46:57+05:30",
+      "seoTitle": "Teddy socks | Babycon",
+      "seoDescription": "Teddy socks — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "untitled-mar24_14-39",
+      "title": "Flower socks",
+      "category": "Accessories",
+      "price": 299,
+      "compareAtPrice": null,
+      "sku": "BC-0080",
+      "stock": 56,
+      "sizes": [
+        "3-12 months"
+      ],
+      "colors": [
+        "Pink&white",
+        "Pink&brown",
+        "White&white",
+        "White&brown",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 26,
+      "description": "<p>Flower socks — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Flower socks — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/untitled-mar24_14-39-1.jpg",
+        "/images/products/untitled-mar24_14-39-2.jpg"
+      ],
+      "alt": "Flower socks",
+      "publishedAt": "2026-03-24T18:31:20+05:30",
+      "seoTitle": "Flower socks | Babycon",
+      "seoDescription": "Flower socks — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "pink-snow",
+      "title": "Pink snow",
+      "category": "Everyday Essentials",
+      "price": 999,
+      "compareAtPrice": null,
+      "sku": "BC-0081",
+      "stock": 22,
+      "sizes": [
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 95,
+      "description": "<p>Pink snow — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Pink snow — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/pink-snow-1.jpg",
+        "/images/products/pink-snow-2.jpg"
+      ],
+      "alt": "Pink snow",
+      "publishedAt": "2026-03-19T00:48:26+05:30",
+      "seoTitle": "Pink snow | Babycon",
+      "seoDescription": "Pink snow — softness they will live in, all day long."
+    },
+    {
+      "handle": "untitled-mar18_23-10",
+      "title": "Knitted swaddle",
+      "category": "Blankets & Swaddles",
+      "price": 1399,
+      "compareAtPrice": 2120,
+      "sku": "BC-0082",
+      "stock": 12,
+      "sizes": [
+        "44*34 inches"
+      ],
+      "colors": [
+        "Brown",
+        "Gray"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.6,
+      "reviewCount": 62,
+      "description": "<p>Knitted swaddle — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Knitted swaddle — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/untitled-mar18_23-10-1.jpg",
+        "/images/products/untitled-mar18_23-10-2.jpg"
+      ],
+      "alt": "Knitted swaddle",
+      "publishedAt": "2026-03-18T23:15:46+05:30",
+      "seoTitle": "Knitted swaddle | Babycon",
+      "seoDescription": "Knitted swaddle — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "untitled-mar18_22-49",
+      "title": "Crochet Blanket",
+      "category": "Blankets & Swaddles",
+      "price": 1950,
+      "compareAtPrice": 2640,
+      "sku": "BC-0083",
+      "stock": 42,
+      "sizes": [
+        "40*34 inches"
+      ],
+      "colors": [
+        "Beige",
+        "Blue"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 81,
+      "description": "<p>Crochet Blanket — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Crochet Blanket — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/untitled-mar18_22-49-1.jpg",
+        "/images/products/untitled-mar18_22-49-2.jpg"
+      ],
+      "alt": "Crochet Blanket",
+      "publishedAt": "2026-03-18T23:11:02+05:30",
+      "seoTitle": "Crochet Blanket | Babycon",
+      "seoDescription": "Crochet Blanket — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "teddy-patch-romper",
+      "title": "Teddy patch romper-white",
+      "category": "Rompers & Onesies",
+      "price": 899,
+      "compareAtPrice": null,
+      "sku": "BC-0084",
+      "stock": 44,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [
+        "white"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.7,
+      "reviewCount": 108,
+      "description": "<p>Teddy patch romper-white — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Teddy patch romper-white — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/teddy-patch-romper-1.png"
+      ],
+      "alt": "Teddy patch romper-white",
+      "publishedAt": "2026-03-18T22:44:19+05:30",
+      "seoTitle": "Teddy patch romper-white | Babycon",
+      "seoDescription": "Teddy patch romper-white — softness they will live in, all day long."
+    },
+    {
+      "handle": "pure-pearl-onesie",
+      "title": "Pure Pearl",
+      "category": "Everyday Essentials",
+      "price": 999,
+      "compareAtPrice": 1510,
+      "sku": "BC-0085",
+      "stock": 48,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 124,
+      "description": "<p>Pure Pearl — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Pure Pearl — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/pure-pearl-onesie-1.jpg"
+      ],
+      "alt": "Pure Pearl",
+      "publishedAt": "2026-03-18T21:42:46+05:30",
+      "seoTitle": "Pure Pearl | Babycon",
+      "seoDescription": "Pure Pearl — softness they will live in, all day long."
+    },
+    {
+      "handle": "untitled-mar18_21-04",
+      "title": "Corduroy pinafore",
+      "category": "Dungarees",
+      "price": 1250,
+      "compareAtPrice": null,
+      "sku": "BC-0086",
+      "stock": 35,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 43,
+      "description": "<p>Corduroy pinafore — playful, practical and impossibly cute.</p><p>Cut from durable, soft cotton with an adjustable fit and easy-access snaps. Roomy enough for cloth nappies and active play, and finished with details that make every outfit feel special.</p><h3>Why you'll love it</h3><ul><li>Soft yet durable cotton</li><li>Adjustable straps for a growing fit</li><li>Snap closure for quick changes</li><li>Layers beautifully over tees & bodysuits</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Corduroy pinafore — playful, practical and impossibly cute.",
+      "highlights": [
+        "Soft yet durable cotton",
+        "Adjustable straps for a growing fit",
+        "Snap closure for quick changes"
+      ],
+      "images": [
+        "/images/products/untitled-mar18_21-04-1.jpg",
+        "/images/products/untitled-mar18_21-04-2.jpg"
+      ],
+      "alt": "Corduroy pinafore",
+      "publishedAt": "2026-03-18T21:13:20+05:30",
+      "seoTitle": "Corduroy pinafore | Babycon",
+      "seoDescription": "Corduroy pinafore — playful, practical and impossibly cute."
+    },
+    {
+      "handle": "corduroy-onesie",
+      "title": "Corduroy romper",
+      "category": "Rompers & Onesies",
+      "price": 999,
+      "compareAtPrice": 1160,
+      "sku": "BC-0087",
+      "stock": 33,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 78,
+      "description": "<p>Corduroy romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Corduroy romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/corduroy-onesie-1.jpg",
+        "/images/products/corduroy-onesie-2.jpg"
+      ],
+      "alt": "Corduroy romper",
+      "publishedAt": "2026-03-18T20:43:07+05:30",
+      "seoTitle": "Corduroy romper | Babycon",
+      "seoDescription": "Corduroy romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "baby-bow",
+      "title": "Baby Bow",
+      "category": "Accessories",
+      "price": 999,
+      "compareAtPrice": null,
+      "sku": "BC-0088",
+      "stock": 53,
+      "sizes": [
+        "3-6 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 116,
+      "description": "<p>Baby Bow — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby Bow — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/baby-bow-1.jpg",
+        "/images/products/baby-bow-2.jpg"
+      ],
+      "alt": "Baby Bow",
+      "publishedAt": "2026-03-18T20:27:45+05:30",
+      "seoTitle": "Baby Bow | Babycon",
+      "seoDescription": "Baby Bow — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "brownie-onesie",
+      "title": "Ivory floral romper",
+      "category": "Rompers & Onesies",
+      "price": 950,
+      "compareAtPrice": null,
+      "sku": "BC-0089",
+      "stock": 32,
+      "sizes": [
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 45,
+      "description": "<p>Ivory floral romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ivory floral romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/brownie-onesie-1.jpg"
+      ],
+      "alt": "Ivory floral romper",
+      "publishedAt": "2026-03-18T18:34:57+05:30",
+      "seoTitle": "Ivory floral romper | Babycon",
+      "seoDescription": "Ivory floral romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "baby-cordset",
+      "title": "Baby cordset",
+      "category": "Co-ords & Sets",
+      "price": 850,
+      "compareAtPrice": null,
+      "sku": "BC-0090",
+      "stock": 40,
+      "sizes": [
+        "6-12months"
+      ],
+      "colors": [
+        "Beige",
+        "Green",
+        "Bronze",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "newborn-comfort-combo-set",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 104,
+      "description": "<p>Baby cordset — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby cordset — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/baby-cordset-1.jpg",
+        "/images/products/baby-cordset-2.jpg"
+      ],
+      "alt": "Baby cordset",
+      "publishedAt": "2026-03-18T16:39:50+05:30",
+      "seoTitle": "Baby cordset | Babycon",
+      "seoDescription": "Baby cordset — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "baby-jumpsuit",
+      "title": "Baby jumpsuit",
+      "category": "Co-ords & Sets",
+      "price": 699,
+      "compareAtPrice": null,
+      "sku": "BC-0091",
+      "stock": 49,
+      "sizes": [
+        "9-12 months"
+      ],
+      "colors": [
+        "Green",
+        "Beige",
+        "Striped",
+        "Deepgreen"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 47,
+      "description": "<p>Baby jumpsuit — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Baby jumpsuit — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/baby-jumpsuit-1.jpg",
+        "/images/products/baby-jumpsuit-2.jpg"
+      ],
+      "alt": "Baby jumpsuit",
+      "publishedAt": "2026-03-18T16:23:41+05:30",
+      "seoTitle": "Baby jumpsuit | Babycon",
+      "seoDescription": "Baby jumpsuit — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "blackbow",
+      "title": "BlackBow",
+      "category": "Accessories",
+      "price": 1099,
+      "compareAtPrice": 1310,
+      "sku": "BC-0092",
+      "stock": 39,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "accessories",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 36,
+      "description": "<p>BlackBow — the sweetest finishing touch to every little outfit.</p><p>Soft, stretchy and comfortable from the first wear. Designed to stay put through wiggles and naps, with gentle materials that never dig or itch.</p><h3>Why you'll love it</h3><ul><li>Skin-friendly, soft-touch yarn</li><li>Comfortable stretch fit</li><li>Perfect for gifting & first photos</li><li>Easy care, long lasting</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "BlackBow — the sweetest finishing touch to every little outfit.",
+      "highlights": [
+        "Skin-friendly, soft-touch yarn",
+        "Comfortable stretch fit",
+        "Perfect for gifting & first photos"
+      ],
+      "images": [
+        "/images/products/blackbow-1.jpg"
+      ],
+      "alt": "BlackBow",
+      "publishedAt": "2026-03-18T16:01:57+05:30",
+      "seoTitle": "BlackBow | Babycon",
+      "seoDescription": "BlackBow — the sweetest finishing touch to every little outfit."
+    },
+    {
+      "handle": "niora",
+      "title": "Niora",
+      "category": "Everyday Essentials",
+      "price": 1550,
+      "compareAtPrice": 1800,
+      "sku": "BC-0093",
+      "stock": 12,
+      "sizes": [
+        "3-6 months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 86,
+      "description": "<p>Niora — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Niora — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/niora-1.jpg"
+      ],
+      "alt": "Niora",
+      "publishedAt": "2026-03-18T15:13:49+05:30",
+      "seoTitle": "Niora | Babycon",
+      "seoDescription": "Niora — softness they will live in, all day long."
+    },
+    {
+      "handle": "elara-outfit",
+      "title": "Elara Outfit",
+      "category": "Everyday Essentials",
+      "price": 699,
+      "compareAtPrice": null,
+      "sku": "BC-0094",
+      "stock": 49,
+      "sizes": [
+        "Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "baby-girl"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 88,
+      "description": "<p>Elara Outfit — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Elara Outfit — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/elara-outfit-1.jpg"
+      ],
+      "alt": "Elara Outfit",
+      "publishedAt": "2026-03-18T15:05:13+05:30",
+      "seoTitle": "Elara Outfit | Babycon",
+      "seoDescription": "Elara Outfit — softness they will live in, all day long."
+    },
+    {
+      "handle": "knitted-romper",
+      "title": "Knitted romper",
+      "category": "Rompers & Onesies",
+      "price": 1650,
+      "compareAtPrice": null,
+      "sku": "BC-0095",
+      "stock": 32,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Pink",
+        "Bronze"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.8,
+      "reviewCount": 36,
+      "description": "<p>Knitted romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Knitted romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/knitted-romper-1.jpg",
+        "/images/products/knitted-romper-2.jpg"
+      ],
+      "alt": "Knitted romper",
+      "publishedAt": "2026-03-18T14:50:21+05:30",
+      "seoTitle": "Knitted romper | Babycon",
+      "seoDescription": "Knitted romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "hooded-muslin-wrapper",
+      "title": "Hooded muslin wrapper",
+      "category": "Blankets & Swaddles",
+      "price": 1299,
+      "compareAtPrice": null,
+      "sku": "BC-0096",
+      "stock": 23,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Moon",
+        "Teddy",
+        "Hearts",
+        "Chick",
+        "Dot"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.9,
+      "reviewCount": 47,
+      "description": "<p>Hooded muslin wrapper — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Hooded muslin wrapper — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/hooded-muslin-wrapper-1.jpg",
+        "/images/products/hooded-muslin-wrapper-2.jpg"
+      ],
+      "alt": "Hooded muslin wrapper",
+      "publishedAt": "2026-03-18T13:26:16+05:30",
+      "seoTitle": "Hooded muslin wrapper | Babycon",
+      "seoDescription": "Hooded muslin wrapper — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "embroidered-muslin-blankets",
+      "title": "Embroidered muslin blankets",
+      "category": "Blankets & Swaddles",
+      "price": 1699,
+      "compareAtPrice": null,
+      "sku": "BC-0097",
+      "stock": 22,
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "accessories",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "New in",
+      "rating": 4.6,
+      "reviewCount": 91,
+      "description": "<p>Embroidered muslin blankets — a whisper-soft layer made for naps, cuddles and everything in between.</p><p>Woven from breathable muslin cotton, this piece gets softer with every wash while staying light enough for year-round comfort. Generously sized so it can be used as a swaddle, nursing cover, pram blanket or play mat.</p><h3>Why you'll love it</h3><ul><li>Premium breathable muslin cotton</li><li>Gets softer with every wash</li><li>Generous size for swaddling & cuddles</li><li>Gentle on delicate newborn skin</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Embroidered muslin blankets — a whisper-soft layer made for naps, cuddles and everything in between.",
+      "highlights": [
+        "Premium breathable muslin cotton",
+        "Gets softer with every wash",
+        "Generous size for swaddling & cuddles"
+      ],
+      "images": [
+        "/images/products/embroidered-muslin-blankets-1.jpg"
+      ],
+      "alt": "Embroidered muslin blankets",
+      "publishedAt": "2026-03-18T12:51:39+05:30",
+      "seoTitle": "Embroidered muslin blankets | Babycon",
+      "seoDescription": "Embroidered muslin blankets — a whisper-soft layer made for naps, cuddles and everything in between."
+    },
+    {
+      "handle": "ribbed-pants",
+      "title": "Ribbed pants",
+      "category": "Co-ords & Sets",
+      "price": 550,
+      "compareAtPrice": null,
+      "sku": "BC-0098",
+      "stock": 32,
+      "sizes": [
+        "3-6 months",
+        "6-12months"
+      ],
+      "colors": [
+        "white",
+        "Red",
+        "Beige",
+        "Blue",
+        "Pink",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 76,
+      "description": "<p>Ribbed pants — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ribbed pants — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/ribbed-pants-1.jpg",
+        "/images/products/ribbed-pants-2.jpg"
+      ],
+      "alt": "Ribbed pants",
+      "publishedAt": "2026-03-18T03:45:33+05:30",
+      "seoTitle": "Ribbed pants | Babycon",
+      "seoDescription": "Ribbed pants — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "bear-waffle-cordset",
+      "title": "Bear waffle cordset",
+      "category": "Co-ords & Sets",
+      "price": 650,
+      "compareAtPrice": 880,
+      "sku": "BC-0099",
+      "stock": 21,
+      "sizes": [
+        "6-12 months"
+      ],
+      "colors": [
+        "Brown",
+        "white"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-6-12m",
+        "newborn-comfort-combo-set",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 86,
+      "description": "<p>Bear waffle cordset — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Bear waffle cordset — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/bear-waffle-cordset-1.jpg",
+        "/images/products/bear-waffle-cordset-2.jpg"
+      ],
+      "alt": "Bear waffle cordset",
+      "publishedAt": "2026-03-18T02:16:22+05:30",
+      "seoTitle": "Bear waffle cordset | Babycon",
+      "seoDescription": "Bear waffle cordset — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "untitled-mar18_01-36",
+      "title": "Ribbed teddy cordset -Green",
+      "category": "Co-ords & Sets",
+      "price": 999,
+      "compareAtPrice": null,
+      "sku": "BC-0100",
+      "stock": 23,
+      "sizes": [
+        "6-12months"
+      ],
+      "colors": [],
+      "collections": [
+        "new-born-essentials",
+        "size-6-12m",
+        "newborn-comfort-combo-set",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.6,
+      "reviewCount": 96,
+      "description": "<p>Ribbed teddy cordset -Green — comfort-first essentials for busy little days.</p><p>Made from soft, stretch-friendly cotton with a relaxed fit that moves how they move. Easy to put on, easy to wash and easy to love — the kind of piece that becomes part of the weekly rotation.</p><h3>Why you'll love it</h3><ul><li>Premium soft-touch cotton</li><li>Stretch comfort waistband</li><li>Breathable for all-day wear</li><li>Machine washable, keeps its shape</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ribbed teddy cordset -Green — comfort-first essentials for busy little days.",
+      "highlights": [
+        "Premium soft-touch cotton",
+        "Stretch comfort waistband",
+        "Breathable for all-day wear"
+      ],
+      "images": [
+        "/images/products/untitled-mar18_01-36-1.jpg",
+        "/images/products/untitled-mar18_01-36-2.jpg"
+      ],
+      "alt": "Ribbed teddy cordset -Green",
+      "publishedAt": "2026-03-18T01:54:21+05:30",
+      "seoTitle": "Ribbed teddy cordset -Green | Babycon",
+      "seoDescription": "Ribbed teddy cordset -Green — comfort-first essentials for busy little days."
+    },
+    {
+      "handle": "ribbed-romper",
+      "title": "Ribbed romper",
+      "category": "Rompers & Onesies",
+      "price": 1550,
+      "compareAtPrice": 2010,
+      "sku": "BC-0101",
+      "stock": 33,
+      "sizes": [
+        "0-6 Months"
+      ],
+      "colors": [
+        "Gray",
+        "Beige"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.7,
+      "reviewCount": 111,
+      "description": "<p>Ribbed romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Ribbed romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/ribbed-romper-1.jpg",
+        "/images/products/ribbed-romper-2.jpg"
+      ],
+      "alt": "Ribbed romper",
+      "publishedAt": "2026-03-18T01:13:32+05:30",
+      "seoTitle": "Ribbed romper | Babycon",
+      "seoDescription": "Ribbed romper — softness they will live in, all day long."
+    },
+    {
+      "handle": "waffle-teddy",
+      "title": "Waffle teddy-ivory",
+      "category": "Everyday Essentials",
+      "price": 999,
+      "compareAtPrice": null,
+      "sku": "BC-0102",
+      "stock": 31,
+      "sizes": [
+        "3-6 months",
+        "6-12 months",
+        "9-12 months"
+      ],
+      "colors": [
+        "Ivory"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "size-6-12m",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 4.8,
+      "reviewCount": 113,
+      "description": "<p>Waffle teddy-ivory — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Waffle teddy-ivory — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/waffle-teddy-1.jpg"
+      ],
+      "alt": "Waffle teddy-ivory",
+      "publishedAt": "2026-03-17T22:25:39+05:30",
+      "seoTitle": "Waffle teddy-ivory | Babycon",
+      "seoDescription": "Waffle teddy-ivory — softness they will live in, all day long."
+    },
+    {
+      "handle": "onesie",
+      "title": "Onesie",
+      "category": "Rompers & Onesies",
+      "price": 699,
+      "compareAtPrice": 800,
+      "sku": "BC-0103",
+      "stock": 15,
+      "sizes": [
+        "0-6 Months"
+      ],
+      "colors": [
+        "Brown",
+        "Green",
+        "Red",
+        "Pink"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "special-offers",
+        "size-0-6m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": "Sale",
+      "rating": 4.9,
+      "reviewCount": 16,
+      "description": "<p>Onesie — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Onesie — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/onesie-1.jpg",
+        "/images/products/onesie-2.jpg"
+      ],
+      "alt": "Onesie",
+      "publishedAt": "2026-03-17T15:39:05+05:30",
+      "seoTitle": "Onesie | Babycon",
+      "seoDescription": "Onesie — softness they will live in, all day long."
+    },
+    {
+      "handle": "cozy-romper",
+      "title": "Cozy Romper",
+      "category": "Rompers & Onesies",
+      "price": 790,
+      "compareAtPrice": null,
+      "sku": "BC-0104",
+      "stock": 43,
+      "sizes": [
+        "0-6 Months"
+      ],
+      "colors": [
+        "Gray",
+        "Yellow",
+        "Beige",
+        "Green",
+        "Brown"
+      ],
+      "collections": [
+        "new-born-essentials",
+        "size-0-6m",
+        "baby-girl",
+        "baby-boy"
+      ],
+      "featured": false,
+      "badge": null,
+      "rating": 5,
+      "reviewCount": 100,
+      "description": "<p>Cozy Romper — softness they will live in, all day long.</p><p>Cut from premium breathable cotton with a comfortable, flexible fit. Thoughtful details like easy snap closures and gentle seams make dressing and changing simple, while the soft hand-feel keeps delicate skin happy.</p><h3>Why you'll love it</h3><ul><li>Premium, breathable cotton</li><li>Easy snap or button closure</li><li>Comfortable fit for sleep & play</li><li>Made to be washed, worn & loved</li></ul><p>Every Babycon piece is designed in small batches and checked by hand, so it feels as good as it looks.</p>",
+      "lead": "Cozy Romper — softness they will live in, all day long.",
+      "highlights": [
+        "Premium, breathable cotton",
+        "Easy snap or button closure",
+        "Comfortable fit for sleep & play"
+      ],
+      "images": [
+        "/images/products/cozy-romper-1.jpg",
+        "/images/products/cozy-romper-2.jpg"
+      ],
+      "alt": "Cozy Romper",
+      "publishedAt": "2026-03-17T11:50:25+05:30",
+      "seoTitle": "Cozy Romper | Babycon",
+      "seoDescription": "Cozy Romper — softness they will live in, all day long."
+    }
+  ],
+  "collections": [
+    {
+      "handle": "new-born-essentials",
+      "title": "New Born Essentials",
+      "description": "",
+      "image": "/images/collections/collection-new-born-essentials.jpg",
+      "sortOrder": 0,
+      "meta": {
+        "tone": "soft"
+      }
+    },
+    {
+      "handle": "baby-girl",
+      "title": "Baby Girl",
+      "description": "",
+      "image": "/images/collections/collection-baby-girl.jpg",
+      "sortOrder": 1,
+      "meta": {
+        "tone": "girl"
+      }
+    },
+    {
+      "handle": "baby-boy",
+      "title": "Baby Boy",
+      "description": "",
+      "image": "/images/collections/collection-baby-boy.jpg",
+      "sortOrder": 2,
+      "meta": {
+        "tone": "boy"
+      }
+    },
+    {
+      "handle": "newborn-comfort-combo-set",
+      "title": "Newborn Combo Sets",
+      "description": "",
+      "image": "/images/collections/collection-newborn-comfort-combo-set.jpg",
+      "sortOrder": 3,
+      "meta": {}
+    },
+    {
+      "handle": "size-0-6m",
+      "title": "Size 0–6M",
+      "description": "Premium babywear for your little one aged 0–6 months. Soft, gentle, and crafted for comfort in every precious moment.",
+      "image": "/images/collections/collection-size-0-6m.jpg",
+      "sortOrder": 4,
+      "meta": {}
+    },
+    {
+      "handle": "size-6-12m",
+      "title": "Size 6–12M",
+      "description": "Premium babywear for your growing baby aged 6–12 months. Comfortable, stylish, and made for every little adventure.",
+      "image": "/images/collections/collection-size-6-12m.jpg",
+      "sortOrder": 5,
+      "meta": {}
+    },
+    {
+      "handle": "accessories",
+      "title": "Accessories",
+      "description": "",
+      "image": "/images/collections/collection-accessories.jpg",
+      "sortOrder": 6,
+      "meta": {}
+    },
+    {
+      "handle": "special-offers",
+      "title": "Special Offers",
+      "description": "",
+      "image": "/images/collections/collection-special-offers.jpg",
+      "sortOrder": 7,
+      "meta": {
+        "tone": "offers"
+      }
+    }
+  ]
+}
