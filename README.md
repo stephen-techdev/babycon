@@ -219,3 +219,5 @@ docker compose up --build
 ---
 
 Built with care for the first tiny days. **babycon** · Chennai, India.
+#   t r i g g e r   d e p l o y  
+ 
