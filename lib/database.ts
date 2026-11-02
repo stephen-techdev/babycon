@@ -8,6 +8,9 @@ const globalForDb = globalThis as unknown as {
 };
 
 function dbPath(): string {
+  if (process.env.VERCEL === "1") {
+    return "/tmp/babycon.db";
+  }
   const configured = process.env.DATABASE_PATH || "./data/babycon.db";
   return path.isAbsolute(configured)
     ? configured
@@ -155,17 +158,17 @@ export function getDatabase(): DatabaseSync {
 
   const file = dbPath();
   fs.mkdirSync(path.dirname(file), { recursive: true });
+
+  // Check if DB needs to be created/seeded
+  const needsSeed = !fs.existsSync(file) || fs.statSync(file).size === 0;
+
   const db = new DatabaseSync(file);
   db.exec("PRAGMA busy_timeout = 10000;");
   db.exec("PRAGMA journal_mode = WAL;");
   db.exec("PRAGMA foreign_keys = ON;");
   db.exec(SCHEMA);
 
-  const seeded = db
-    .prepare("SELECT value FROM meta WHERE key = 'seed_version'")
-    .get() as { value?: string } | undefined;
-
-  if (!seeded) {
+  if (needsSeed) {
     seedDatabase(db);
   }
 
